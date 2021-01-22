@@ -2,7 +2,7 @@
 
 Have a quick look:
 
-# First go to -------------->  sentiments analysis
+# First go to -------------->  Sentiments Analysis
 
 ## Try with "be always positive"
 
