@@ -1,5 +1,3 @@
-from app import db
-db.create_all()
 from flask import Flask, render_template, flash, request, url_for, redirect, session
 import numpy as np
 import pandas as pd
